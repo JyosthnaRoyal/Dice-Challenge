@@ -1,0 +1,22 @@
+.main {
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body{
+  background-color: #D9D7F1;
+}
+
+h1{
+  font-size: 4em;
+    color: #7900FF;
+}
+
+p{
+  color:#EC255A;
+  font-size:2.5em;
+}
